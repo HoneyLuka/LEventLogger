@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Firebase
+import FirebaseAnalytics
 
 public extension EventLogger {
     struct EventType: RawRepresentable, Hashable {
